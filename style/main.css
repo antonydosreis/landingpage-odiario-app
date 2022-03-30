@@ -391,7 +391,7 @@ body {
 }
 
 .download {
-  background: linear-gradient(#003F8Edd, #003F8Edd), url(../images/smartphone-background.jpeg);
+  background: linear-gradient(#003F8Edd, #003F8Edd), url(../images/smartphone-background.webp);
   background-size: cover;
   background-position: center;
   padding: 10rem 0;
